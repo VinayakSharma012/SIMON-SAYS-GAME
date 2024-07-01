@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    background-color: lightcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid rgb(56, 10, 83);
+    margin: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.purple {
+    background-color: #8193f9;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: rgb(122, 243, 122);
+}
